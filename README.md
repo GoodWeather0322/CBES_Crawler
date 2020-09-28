@@ -7,8 +7,36 @@
 
 ## 驗證碼辨識
 - 使用 OpenCV 將驗證碼圖像進行二值化、銳利化
-- 進行邊緣輪廓檢測，重新縮放大小，裁切出各個待辨識圖像
+- 進行邊緣輪廓檢測，裁切出各個待辨識圖像，重新縮放大小
 - 與[已標記正確答案](https://github.com/GoodWeather0322/CBES_Crawler/tree/master/captcha/True2)圖像計算MSE進行相似度判別，得到辨識結果
+- 驗證碼辨識成功率為 92.3 %
+
+<center>
+
+![original](/README/origin.png)
+
+&darr;
+
+![binarization](/README/binarization.png)
+
+&darr;
+
+![f1](/README/fig0.png) ![f1](/README/fig1.png) ![f1](/README/fig2.png) ![f1](/README/fig3.png) ![f1](/README/fig4.png) ![f1](/README/fig5.png)
+
+&darr;
+
+![f1](/README/resize_fig0.png) ![f1](/README/resize_fig1.png) ![f1](/README/resize_fig2.png) ![f1](/README/resize_fig3.png) ![f1](/README/resize_fig4.png) ![f1](/README/resize_fig5.png)
+
+&darr;
+
+已標記資料庫
+
+&darr;
+
+# S 7 K G P R
+
+
+</center>
 
 ## 輸入
 |統一編號|類別|名稱|
