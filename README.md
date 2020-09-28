@@ -12,10 +12,12 @@
 - 驗證碼辨識成功率為 92.3 %
 
 <p align="center">
+<img src="/README/origin.png">
+</p>
 
 ![original](/README/origin.png)
 
-<img src="/README/origin.png">
+
 
 &darr;
 
@@ -37,7 +39,7 @@
 
 # Result S 7 K G P R
 
-</p>
+
 
 ## 輸入
 |統一編號|類別|名稱|
