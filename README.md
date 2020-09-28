@@ -7,7 +7,7 @@
 
 ## 驗證碼辨識
 - 使用 OpenCV 將驗證碼圖像進行二值化、銳利化
-- 進行邊緣輪廓檢測，裁切出各個待辨識圖像
+- 進行邊緣輪廓檢測，重新縮放大小，裁切出各個待辨識圖像
 - 與[已標記正確答案](https://github.com/GoodWeather0322/CBES_Crawler/tree/master/captcha/True2)圖像計算MSE進行相似度判別，得到辨識結果
 
 ## 輸入
