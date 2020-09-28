@@ -33,8 +33,7 @@
 
 &darr;
 
-# S 7 K G P R
-
+# Result S 7 K G P R
 
 </center>
 
