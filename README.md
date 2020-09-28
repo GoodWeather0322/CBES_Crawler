@@ -15,29 +15,31 @@
 <img src="/README/origin.png">
 </p>
 
+<center>
+
 ![original](/README/origin.png)
 
 
 
-&darr;
-
 ![binarization](/README/binarization.png)
 
-&darr;
+
 
 ![f1](/README/fig0.png) ![f1](/README/fig1.png) ![f1](/README/fig2.png) ![f1](/README/fig3.png) ![f1](/README/fig4.png) ![f1](/README/fig5.png)
 
-&darr;
+
 
 ![f1](/README/resize_fig0.png) ![f1](/README/resize_fig1.png) ![f1](/README/resize_fig2.png) ![f1](/README/resize_fig3.png) ![f1](/README/resize_fig4.png) ![f1](/README/resize_fig5.png)
 
-&darr;
+
 
 已標記資料庫
 
-&darr;
+
 
 # Result S 7 K G P R
+
+</center>
 
 
 
