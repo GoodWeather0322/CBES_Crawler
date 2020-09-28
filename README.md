@@ -11,9 +11,11 @@
 - 與[已標記正確答案](https://github.com/GoodWeather0322/CBES_Crawler/tree/master/captcha/True2)圖像計算MSE進行相似度判別，得到辨識結果
 - 驗證碼辨識成功率為 92.3 %
 
-<center>
+<p align="center">
 
 ![original](/README/origin.png)
+
+<img src="/README/origin.png">
 
 &darr;
 
@@ -35,7 +37,7 @@
 
 # Result S 7 K G P R
 
-</center>
+</p>
 
 ## 輸入
 |統一編號|類別|名稱|
