@@ -11,33 +11,33 @@
 - 與[已標記正確答案](https://github.com/GoodWeather0322/CBES_Crawler/tree/master/captcha/True2)圖像計算MSE進行相似度判別，得到辨識結果
 - 驗證碼辨識成功率為 92.3 %
 
-<p align="center">
+<!-- <p align="center">
 <img src="/README/origin.png">
-</p>
+</p> -->
 
 <center>
 
 ![original](/README/origin.png)
 
-
+&darr;
 
 ![binarization](/README/binarization.png)
 
-
+&darr;
 
 ![f1](/README/fig0.png) ![f1](/README/fig1.png) ![f1](/README/fig2.png) ![f1](/README/fig3.png) ![f1](/README/fig4.png) ![f1](/README/fig5.png)
 
-
+&darr;
 
 ![f1](/README/resize_fig0.png) ![f1](/README/resize_fig1.png) ![f1](/README/resize_fig2.png) ![f1](/README/resize_fig3.png) ![f1](/README/resize_fig4.png) ![f1](/README/resize_fig5.png)
 
+&darr;
 
+<font size=5>`已標記資料庫`</font>
 
-已標記資料庫
+&darr;
 
-
-
-# Result S 7 K G P R
+# `Result` S 7 K G P R
 
 </center>
 
