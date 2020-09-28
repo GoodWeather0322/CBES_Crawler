@@ -33,7 +33,7 @@
 
 &darr;
 
-<font size=5>`已標記資料庫`</font>
+<font size=15>`已標記資料庫`</font>
 
 &darr;
 
